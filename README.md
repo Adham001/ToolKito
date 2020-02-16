@@ -35,7 +35,7 @@ Java package
 + -- + data        // Data dummy generator class
 + -- + fragment    // Fragment class for tab, viewpager
 + -- + helper      // Drag and wipe lisview class helper
-+ -- + model       // Model class to represent object, like Person, Place, Music
++ -- + model       // Model class to represent object
 + -- + utils       // Snippets code and support method
 + -- + widget      // View divider decorator for list and grid
 ```
